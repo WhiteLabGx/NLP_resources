@@ -1,3 +1,6 @@
+![](/home/Logo_horizontal.png)
+---
+
 # This is Whitelab Genomics' list of useful NLP resources : 
 
 Please note, this resource is currently under construction and will be updated regularly.
@@ -51,3 +54,6 @@ The project is led by Geoffrey Rockwell, Stéfan Sinclair, and Milena Radzikowsk
         - Learn about papers, articles and other sources about specific tools
         - Tag, comment, rate, and review collaboratively
         - Browse lists of related tools in order to discover tools more easily
+
+
+||[home](https://whitelabgx.github.io/home/)||
