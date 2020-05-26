@@ -55,6 +55,8 @@ The project is led by Geoffrey Rockwell, Stéfan Sinclair, and Milena Radzikowsk
         - Learn about papers, articles and other sources about specific tools
         - Tag, comment, rate, and review collaboratively
         - Browse lists of related tools in order to discover tools more easily
+        
+- [MeSH](https://www.nlm.nih.gov/mesh/meshhome.html) Medical subjects heading & its [bilingual version](http://mesh.inserm.fr/FrenchMesh/)
 
 ****
 ||[home](https://whitelabgx.github.io/home/)||
